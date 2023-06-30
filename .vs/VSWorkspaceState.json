@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AlgoritmoGenetico",
+    "\\AlgoritmoGenetico\\Enums",
+    "\\AlgoritmoGenetico\\Helpers",
+    "\\AlgoritmoGenetico\\Models"
+  ],
+  "SelectedNode": "\\AlgoritmoGenetico\\Helpers\\CanvasHelper.cs",
+  "PreviewInSolutionExplorer": false
+}
