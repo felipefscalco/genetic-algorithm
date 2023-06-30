@@ -7,3 +7,8 @@ With the default parameters it can take up to 20~40 generations to find the maze
 ![genetic](https://github.com/felipefscalco/genetic-algorithm/assets/19717551/4dd06d10-5646-4e95-9aee-3e984c9f6b4f)
 
 You will be able to check the previous generations information by clicking on the generation number on the right panel.
+
+Project information:
+- The maze was build using `WPF`.
+- The project is using `MVVM`.
+- Some features included in the genetic code are crossover, mutation and elitism.
